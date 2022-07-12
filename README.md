@@ -31,12 +31,12 @@
   
   <img alt="Material" src="https://camo.githubusercontent.com/2c2e3cab0541596a12e216df86e68fa554256f25826b55a068993a3edfbcd0e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c2d2d55492d3030383143423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c2d7569266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&amp;logo=material-ui&amp;logoColor=white" style="max-width: 100%;">
   &emsp;
-  <img alt="ReactRouter" src="https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" style="max-width: 100%;" class="__web-inspector-hide-shortcut__">
-    
+  <img alt="ReactRouter" src="https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" style="max-width: 100%;" class="__web-inspector-hide-shortcut__">    
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
   </a>
+   &emsp;
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -63,20 +63,14 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
+  <a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a
+    &emsp;
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+    &emsp;
 </p>
 
 <br/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
-<p align="left">
-  
-
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code></p>
   <hr>
 
 ### 🔥 Streak Stats
