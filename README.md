@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Everton Jackson </h1>
+<h1 align="center">Oii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Meu nome é Everton Jackson </h1>
 <p align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI" alt="Dino" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></p>
 
 ## 🛠️ My Skills
